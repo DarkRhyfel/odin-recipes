@@ -1,0 +1,29 @@
+* {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: black;
+}
+
+img.finished {
+    height: 500px;
+    width: auto;
+}
+
+h2.description {
+    color: #fc2424;
+}
+
+h3.lists {
+    color: rgb(83, 215, 255);
+}
+
+ul.ingredients li {
+    color: greenyellow;
+}
+
+ol.steps li {
+    color: paleturquoise;
+}
